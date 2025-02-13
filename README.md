@@ -91,19 +91,15 @@
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Tibu-sby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=Tibu-sby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <br></br>
-  <img  title="🔥" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tibu-sby&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="125" alt="languages graph"  />
+  <img  title="🔥" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tibu-sby&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="125" alt="languages graph"  />
 </td>
   
 <td width="50%" align="center">
-  <img  align="center"  src="https://streak-stats.demolab.com?user=Tibu-sby&locale=es&mode=weekly&theme=vue-dark&hide_border=false&border_radius=2&order=3" height="200" alt="streak graph"  />
+  <img  align="center"  src="https://streak-stats.demolab.com?user=Tibu-sby&locale=es&mode=weekly&theme=github_dark&hide_border=false&border_radius=2&order=3" height="200" alt="streak graph"  />
 </div>
 
 <!--- stats (end) -->
 
 <!--- stats & Trophy (end) -->
-
-Credit: [Joryi-Sby](https://github.com/Tibu-sby)
-
-Last Edited on: 13/02/2025
