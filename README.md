@@ -82,24 +82,22 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> My Stats:</h3>
 
-###
-<!--- stats & Trophy (start) -->
-
-
 <p align="left">
   <!--- stats (start) -->
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Tibu-sby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Tibu-sby&hide_title=false&hide_rank=false&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <br></br>
-  <img  title="🔥" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tibu-sby&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="125" alt="languages graph"  />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tibu-sby&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" /> 
 </td>
-  
+
+
 <td width="50%" align="center">
-  <img  align="center"  src="https://streak-stats.demolab.com?user=Tibu-sby&locale=es&mode=weekly&theme=github_dark&hide_border=false&border_radius=2&order=3" height="200" alt="streak graph"  />
-</div>
 
+  <img  align="center"  src="https://streak-stats.demolab.com?user=Tibu-sby&locale=es&mode=weekly&theme=vue-dark&hide_border=false&border_radius=2&order=3"/>
+
+  </td>
+</tr>
+</table>
 <!--- stats (end) -->
-
-<!--- stats & Trophy (end) -->
