@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Joryi-Sby</h1>
+<h1 align="center">JShelby</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jorgeherrerapascual/" target="_blank">
