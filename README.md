@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">JShelby</h1>
+<h1 align="center">jShelby</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jorgeherrerapascual/" target="_blank">
