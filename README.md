@@ -5,6 +5,7 @@
 ###
 
 <h1 align="center">jShelby</h1>
+  <h3 align="center">Architechture Student</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jorgeherrerapascual/" target="_blank">
