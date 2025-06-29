@@ -28,7 +28,7 @@
 
 ### 🦁 Lionbridge Technologies
 **Game & Software Tester**  
-*202X - Present*  
+*2023 - Present*  
 - Functional testing of video games and software applications  
 - Bug reporting and documentation  
 - Quality assurance processes  
