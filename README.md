@@ -32,7 +32,7 @@
 - 👾 **Hobbies** `Cibersecurity` **&** `Graphic Design`
 - :boom: You can visit [MY WORKS](https://www.behance.net/JorgeHerreraDesigns)
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Joryi&amp;color=8f200&amp;style=flat-square)](mailto:jorge.herrerapascual@gmail.com)
-- 🤟 My Basics `"I love listening to music, going to the gym, and spent time with my friends"`
+- 🤟 My Basics `"I love listening to music, going to the gym"`
 - 🤠 Always believe `"you never lose, you always learn"`
 
 <br>
